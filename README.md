@@ -1,5 +1,5 @@
 # Legit-AimBooster-Aimbot  
-A legit aimbot for AimBooster for times when you need to look like you have skill. Proggramed i n python  
+A legit aimbot for AimBooster for times when you need to look like you have skill. Proggramed in python  
 
 ## Setup  
 
