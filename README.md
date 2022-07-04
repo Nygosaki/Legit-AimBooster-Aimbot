@@ -4,13 +4,9 @@ A legit aimbot for AimBooster for times when you need to look like you have skil
 ## Setup  
 
 1. Download this repository.  
-2. Download the following Python packages:  
-  - time (possibly already installed)
-  - threading (possibly already installed)
-  - pynput
-  - pyautogui
+2. Download the Python dependencies:  
 
-  You can find all the requirements on top of the script.py file.  
+  You can find all the dependencies on top of the script.py file in the import section.  
   If you are not using a SDK, install the requirements with [pip](https://pip.pypa.io/en/stable/installing/).  
   Or, if you are using [PyCharm](https://www.jetbrains.com/pycharm/), you can use this [reference](https://www.jetbrains.com/help/pycharm/installing-uninstalling-and-upgrading-packages.html).
 
