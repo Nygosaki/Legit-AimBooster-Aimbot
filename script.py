@@ -93,7 +93,6 @@ blacklist = [[0, 0], [0, 0], [0, 0]]
 def last_check(points, x, y):
     finished_number = 0
     z = [x, y]
-    # print(f"{z} z")
     for i in points:
         z_number = -1
         finished_number += 1
@@ -197,7 +196,6 @@ class Bot(threading.Thread):  # class that extends threading, allows us to mouse
 
                         points = [old_coordinates, z_curve, z]
                         # sleep(0.05)
-                        print(random_duration)
                         moveThrough(points, duration=random_duration)
 
                         mouse.click(Button.left, count = 1)
