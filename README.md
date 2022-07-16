@@ -15,8 +15,8 @@ A legit aimbot for AimBooster for times when you need to look like you have skil
 5. Start a new game and then press **s** (start/stop autoclicking bot). You can also press **e** to stop running the script.  
 
 ### BuT I dOnt KnoW hoW tO cOmpIle iT
-Well, first of all, if that is the case, you shouldnt be here.  
-Second of all, in the future I will add a .exe for you to simply doubleclikc. Note, that suprise suprise you wont be able to change anything, including screen size, making the aimbot more skillful while looking less human etc.
+If that is the case, you shouldnt be here.  
+Just search it up/download PyCharm.
 
 ## Updates  
 This will not be getting any updates, if you dont like something, fix it yourself  
