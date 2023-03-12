@@ -1,5 +1,5 @@
 # Legit-AimBooster-Aimbot  
-A legit aimbot for AimBooster for times when you need to look like you have skill. Proggramed in python  
+A fun side project to see how hard it would be to create a human looking aimbot that clicks obvious red dots.
 
 ## Setup  
 
